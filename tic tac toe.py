@@ -1,3 +1,3 @@
-nom = input(int("Quel nom ?"))
+nom = int(input("Quel nom ?"))
 
 print(nom)
